@@ -1,0 +1,57 @@
+{
+  "teamDropdownValues": [
+    "Accounts",
+    "Billing Rates",
+    "workstream"
+  ],
+  "roleDropdownValues": [
+    "QA",
+    "Software Engineer",
+    "PM"
+  ],
+  "experienceDropdownValues": [
+    "All",
+    "0-1 Year",
+    "1-2 Years",
+    "2-4 Years",
+    "4-6 Years",
+    "6-9 Years",
+    "9+ Years"
+  ],
+  "natureOfRequirementDropdownValues": [
+    "All",
+    "Full Time",
+    "Half Time",
+    "Hourly"
+  ],
+  "typeDropdownValues": [
+    "All",
+    "Non Billable",
+    "Billable"
+  ],
+  "statusDropdownValues": [
+    "All",
+    "Pending",
+    "Reviewed",
+    "Shortlisted",
+    "Interviewing",
+    "Offer Placed",
+    "On Hold",
+    "Complete",
+    "Closed"
+  ],
+  "replacementOrNewOpeningDropdownValues": [
+    "All",
+    "New Opening",
+    "Replacement"
+  ],
+  "techStackDropdownValues": [
+    "24 x 7 Project Management",
+    "360 Feedback",
+    "3D Modelling & CAD (3DS Max, Blender)",
+    "3D Studio Max",
+    "A11y",
+    "Ability to work under pressure",
+    "Academic Writing"
+  ]
+}
